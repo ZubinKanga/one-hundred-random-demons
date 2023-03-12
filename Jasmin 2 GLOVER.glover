@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GLOVER version="1.1.1" GlobalMute="0" PerformMode="0">
+  <DEVICEMANGER CurrentDevice="0">
+    <DEVICE DeviceType="NgimuGloveDevice" Hand="0" DeviceUniqueId="26313"
+            UserDeviceName="MiMU Glove Left" Mute="0" PredefinedButtonBehaviour="0"
+            PostureTrainingSet="5165.E....DiKw3RLOB...f.......01O..HW+..f67C..p1O..TP+..P17C..IxO..7S+L.......01O..LW+Xrl57C..q1O..DP+...17ifWHxO..3S+L.......z1O..LW+jSI57C..q1O...P+...17C..HxO..3S+L.......z1O..LW+...57C..q1O..7O+Pny07C..HxOKt1S+L....PNky1O..HW+..f47C..r1O..7O+..v07C..HxOVezS+L.....Qlv1OX6VW+.cz17C9hu1Oq98N+..f07C..FxOxSRS+L.......s1O3kOW+..f07Sa6s1O..vN+..f07C..FxO..DS+L.......t1OCaWW+...07C..r1OJvuN+..P07C..FxO..DS+L.......u1O..XW+bw0y7C..p1O..3N+..P07C..ExO..TS+L.......o1O...W+..f27C..n1O..DN+D1dz7C..NxO...S+L....PiUp1OzX2V+zX0z7Sr9k1OOzBN+..Pz7C..KxORRHS+L.......j1O..PV+..vw7CYZl1OBczM+..fy7C..GxO...S+L.......CzO..TI+..Pt7Sz3NzO..7L+nwJz7Cd4IxOubfQ+D.......BzO..PI+...t7C..NzO..3L+...z7C..IxO..jQ+D.......BzO..PI+..vs7C..NzO..vL+zGxy7C..IxO..jQ+D....vU+AzO..LI+..fs7C..NzO..rL+..vy7C..IxOt5iQ+D.......AzO..LI+..Ps7C..MzOUfmL+..vy7C..IxO..fQ+D.......AzO..HI+...s7C..MzO..fL+zOny7ytYHxO..jQ+D.......AzO..HI+..vr7C..MzO..bL+..fy7C..HxO..jQ+D........zO..HI+..vr7inQLzO..XL+..fy7C..HxO6CiQ+D........zO..DI+..fr7C..LzO..XL+..fy7C..HxOpfgQ+D.......+yO..DI+7Par7C..LzOi0UL+fnQy7C..HxO..fQ+D.......N1O..DU+..vR8C..PzOMK6Q+..v07C..YxOPGAU+P.......L1O...U+vKeR8C..OzO..vQ+..f07C..ZxO...U+P.......L1Ofu7T+XZHR8C..OzOE3uQ+..f07C..ZxO...U+P.....3kK1Oi06T+..vQ8C..NzO..vQ+zGR07C..axO..HU+P.......M1OewUU+X6lP8C..NzOE3yQ+..P07SA9ZxOaVFU+P.......N1OWbMV+jowQ8C..MzOxShQ+..P07C..XxO..3T+P.......M1OcyFV+D5nR8iPGLzO2rHQ+...07iyxVxOTAtT+P....fgsN1O..vU+...Q8C..LzOoB7P+...07C..VxO..rT+P.......T1OfWvU+r9HQ8C..LzO..vP+...07C..VxO..zT+P.......W1ORRpU+..PP8CdYKzOMVqP+...07iSAUxOzX+T+P....PaaU1O..XU+vK+N8C..KzODMfP+Tevz7C..UxO4TDU+P.....M1T1Od4BU+..vO8C..KzO3k+O+..vz7ijjUxO..jU+P.......M1OLM7T+3puQ8iePJzOHzkO+D1tz7C..UxOnBTU+P.......t1O..zU+.9hR8C..x1O..jU+..fr8iF1HyOogkW+........s1O..vU+...R8C..x1O..fU+..fr8C..HyO..nW+........r1O..vU+..vQ8C..x1O..bU+..fr8SRRGyOY8mW+........p1O..rU+HxDQ8C..x1O..LU+..vr8C..FyO..bW+........l1O..bU+..PO8C..x1OvWrT+..vr8C..ByO..LW+........kzOd47S+..fa7C...zO..DL+..Py7S8ALxO..zO+P.......jzO..3S+..fa7C..+yO...L+...y7C..LxOgsyO+P.......c1ODMTU+vbxo7C..70O..TO+..fg8ykS0xO..LP+T.......a1O..PU+jJfo7C..70O..PO+..Pg8C..1xO5n9O+T....P8CX1O..LU+..Po7C..70O..LO+.9Bg8C..1xO..3O+T.......X1OIIEU+..Po7SV+60OY8KO+baKg8C..2xO..zO+T.......W1O..DU+.9Bo7SX660O..HO+...g8C..2xO..zO+T....fjja1O..3T+..Po7C..30O..3N+..Pf8C..zxOSAQQ+T.......W1OGUHU+D3Kn7i7j60Oq9AO+..Pf8SGU7xODYhS+T....PVdU1O7jTU+nDIn7SlF60O..nO+..vf8C..JyO1MuU+T.......J1O..nT+jSAk7yX810OJ3OO+HIIe8C..KyOZrbV+T....fBd+0O..7S+..vi7iSAx0O..zN+...b8C..CyO..PW+T....PVda1O..TT+..Pl7C..y0O1MCO+Phrg8C..6xO7EKU+T.......70O..rS+..fj7C..z0OE7NN+..Pe8C..6xO..jP+T.......v1O..nS+...p7C..Y1O..fP+..vq8C..6xOw5mP+........v1OmkeS+...p7SwUX1O..fP+..vq8C..5xO..nP+........v1O..bS+...p7C..X1O5GbP+..vq8C..4xOFWkP+........v1O5nZS+vzvo7C..X1O..bP+..vq8C..4xOpejP+........v1O..XS+..vo7C..X1O..bP+..vq8C..4xOcylP+.....P8Av1O..TS+..vo7C..X1O..bP+..vq8C..4xOMVoP+........u1OD57R+bVtn7iq9U1OUfCQ+..vq8C9hyxOJvyP+.....v11q1O3kaR+..Pp7C..T1OKmnQ+..vq8C..wxOubtQ+........o1O..PR+DU.o7C..Q1O..XQ+..Pq8C..wxOE3uQ+......7Rm1O217Q+3CEn7yxIM1OKmRQ+..vp8SRxwxO..nQ+.....vxIk1OVenQ+...n7yo.H1O9P8Q+..fp8C..wxO..vQ+.....PzXyyO..3E+TAOg7C..zyOY84K+..vu7C..XxOY8KO+D.......yyO..3E+...g7yo.yyO..3K+..vu7C..XxO..HO+D.......yyO..zE+...g7C..yyO9hyK+jFlu7C..XxO..HO+D.....ZLxyO..zE+..vf7C..yyO..vK+..fu7SV+WxO..HO+D.......xyO..zE+..vf7C..yyOePuK+..fu7S0OWxOE3GO+D....P4IwyO..vE+..vf7C..xyOQEnK+..fu7C..WxO..DO+D.......h1O..LT+..Pq7iB7U1O..jL+..fn8C..hxOv1YS+T....vAcg1O..LT+..Pq7C..U1OQEfL+..fn8C..hxO..zR+T....fjDe1O..7S+..fp7C..T1OSAYM+..vl8C..exO..jS+.....vIQd1O..7S+..Pp7C..T1O7EiM+..vl8C..dxOQEjS+........d1OmB7S+..Pp7C..S1O..rM+..fl8C..dxO..nS+.....vxIb1OBd4S+..vo7CM1R1OjjzM+..fl8C..dxOzXmS+........Y1OmkiS+PG0o7C..Q1O..fN+..fl8C..bxOiJLS+.....vC5T1O...S+3IAn7C..P1O..7M+T+.m8C..dxO..jS+........T1O..7R+...n7C..P1O..3M+...m8C..dxO..fS+......MVYzO..7F+..vp7C..LzOE7hK+...y7C..axO..zP+H....fSAYzO..zF+...p7C..LzO..fK+...y7C..axO..zP+H....PE3azO..vF+byBo7C..LzO..fK+...y7C..axO..vP+H.......XzO..rF+..fn7C..LzOzXYK+Pz3x7iSAaxO..vP+H....vU+UzO..rF+..Pn7iq9KzO..PK+..vx7yU+axOdRrP+H.......TzO..rF+zofn7CmBKzO..LK+..vx7iw5axO..nP+H.......RzO..nF+jSIr7C..KzO..PK+z1lx7C..axO..nP+H.......QzO..nF+..fr7C..KzO..TK+..fx7C..axO..nP+H....PTAPzO..jF+...r7C..KzO..PK+..fx7C..axO..nP+H.......QzO..TT+..fo7C..4yO..TK+..Ps7C..SxOW82N+X....P8APzO..TT+..fo7C..4yO..PK+..Ps7C..SxOi02N+X.......OzOb0ST+..Po7C..4yO..PK+..Ps7C..TxOTA1N+X.......NzOi0OT+..Po7C..4yOHZTK+..Ps7C..UxOHZzN+X.......MzO..bT+vWLo7C..4yO..PK+..Ps7ShLTxOoBzN+X.......KzOmkOT+..Po7C..4yOlFRK+..Ps7C..UxO..zN+X.......JzO..bT+7gdo7C..4yO..PK+..Ps7ijDTxO..zN+X....fSAHzO..rT+...o7C..4yOpfKK+..Ps7C..TxO..zN+X......fHzO..7T+...o7C..4yOqOFK+..Ps7C..TxO..zN+X....vo.KzOVeVU+...o7C..4yOY8CK+nfOs7C..TxO..zN+X....Pz3IzOY8WU+..vn7C..4yO...K+nwJs7C.fSxO..zN+X....vo.FzOHZ3T+..Pn7C..4yORR7J+...s7C..SxO..zN+X....Pp.EzOnBvT+..Pn7C..4yO..DK+...s7SA9SxO..zN+X....vX8BzO..XT+Dqeo7SE73yO..7J+...s7C..SxO..zN+X....PfuK0Ov18T+7ftq7yMK3yOa23J+...s7C..XxO..zN+X.......vzO8g3T+..vq7C..3yOZrxK+...s7ifWWxO..zN+X....f4TP0OpfsU+LE7q7Cub3yOVeZL+3C8r7SmBQxO..zN+X.......5zObJ.U+X8wp7C..3yOnwJL+..vr7C..ZxO..vN+X....fHSDzOQlNV+...p7C..S1Ou3FL+..fr7C..NxO..jN+b....fwZ+yODMDV+..fo7yo.O1O..rK+..fr7CQCNxO..jN+b.......9yOogAV+n.+n7yU+N1O..nK+DUPr7C..NxO..jN+b.......+yOu31U+..fn7C..O1O..nK+..Pr7iPGMxO..jN+b.......EzO..TU+PnCo7C..P1OdR.L+..Pr7C..MxO..jN+b....P6lJzO..DU+..vp7C..S1O..bL+..Pr7C..MxO..jN+b....vTvNzO..DU+fnQq7ijDS1O..jL+..Pr7C..MxO..jN+b.......NzO..PU+..vq7SA9T1OkHeL+..Pr7isaLxO..jN+b.......LzO..fU+..fq7C..T1O..XL+..Pr7i9ALxO..jN+b.....IIIzO..bU+..vp7C..S1OY8WL+7gFr7C..LxO..jN+b....PzXHzO..LU+..vo7y5CR1OssOL+...r7C..LxO..jN+b.......JzOhFEU+...p7C..R1OY8KL+...r7C..LxO..jN+b....v1MFzO..PU+..Pp7C..R1O...L+...r7C..LxOMKiN+b.......c1O..fU+..fH8yo.o1O..PV+..fp8C..YyO..XP+T.......c1O..XU+TANG8yIQo1O..LV+b0up8yY4YyO..jP+T.....zQb1O..TU+vUeF8C..o1O..LV+..vp8C..YyO..rP+T.......b1O..PU+..PF8C..p1O..HV+Pisp8C..YyO..vP+T....PCaa1OiJLU+n9AF8C..p1O..HV+vxip8C..YyO..rP+T.......a1O..LU+...F8C..o1O..HV+..fp8yQEXyO..nP+T.......a1O..LU+...F8C..o1O21FV+..fp8C..XyO..jP+T.....gNCzOSC6V+..Pr7C..Z1OnidM+...p7C..CxO0OXO+b.......CzO..3V+..Pr7i4zZ1O..fM+...p7C..CxO..XO+b.......CzO..vV+...r7C..Y1OvKcM+...p7C..CxO..XO+b.......BzOUvkV+Tvqq7yG5Y1O..zM+...p7C..DxO..XO+b.......BzOEWgV+...r7C..Y1O..rM+...p7C..DxO..XO+b....Pp.AzOewYV+vzvq7iHSX1O7jfM+...p7C..DxO..TO+b.......AzOnw1U+..vq7C..Y1Ow5iM+...p7yo.CxO..TO+b.......AzO..3U+..vq7C..Y1O..bM+...p7C..CxOaVRO+b.......l1O..XV+Hvmm7C..R1O..fM+byBp7C..BxOr7DP+L.......k1O..PV+..fm7C..Q1ODMXM+...p7C..BxO..DP+L.......l1O..PV+..Pm7SrdP1OjjVM+...p7SV+AxOnwBP+L....Pz3j1OhFIV+..Pm7SNEQ1OE7LM+...p7C..AxO..DP+L....vnBh1OePOV+...m7STAQ1O..HM+...p7C..AxOW8+O+L....Pjok1O..DV+..fl7C..M1O..HM+...p7C..AxO..7O+L....vX8l1O..DV+..Pl7C..N1OHZNM+...p7C..AxO...P+L....f3pk1O..7U+...l7C..L1O5GPM+...p7C..AxO..DP+L....."
+            CalibrationParameters="128.PfQp.wKO87Cu7zyOE7Za+D.53AD..qwO..rF+.ujb8iAW+LP..bH+..vg7iNpjzODERt.A...8C...zO..Da+DdoCED..sxO..zJ+D3K.8iKAbIP..3L+..fy7C..m1O1AMMBA.fh7C..JxOLmBJ+3.cZED..AzO..DP+...S8C"
+            ConnectionType="0" SerialNumber="003CE739" PostureName1="Fist"
+            PostureName2="Open Hand" PostureName3="Three Fingers" PostureName4="One Finger Point"
+            PostureName5="Two fingers" PostureName6="Thumbs Up" PostureName7="Four fingers"
+            PostureName8="Gang sign" PostureName9="Posture 9"/>
+    <DEVICE DeviceType="NgimuGloveDevice" Hand="1" DeviceUniqueId="10793"
+            UserDeviceName="MiMU Glove Right" Mute="0" PredefinedButtonBehaviour="0"
+            PostureTrainingSet="6461.E....DiKw3RLyB...f.......CzO..DL+..P07C..vyO..bJ+..v+7Sz3cyO..XN+D....Pp.BzO...L+..vz7C..uyO..XJ+b0e+7C..cyO..TN+D.......AzO..7K+..Pz7SV+syO..XJ+..P+7yCMbyO..TN+D.......AzO..7K+...z7C..syOSAWJ+...+7C..byO..PN+D........zO..3K+..vy7C..ryO..TJ+...+7C..byO..PN+D........zO..3K+..fy7iq9qyO..TJ+..v97C..byOQELN+D........zO..3K+..fy7yShqyO..TJ+..v97C..byO..LN+D.......+yO..zK+...y7C..pyOW8SJ+..f97C..ayO..LN+D.......91O..TW+..v.8C..u1OfunS+..fg8C..BzOcToY+H.....SC11O..vV+..f+7C..t1OpePS+..ff8C...zO..rY+H.......E2OcTQW+...+7C..u1O..PT+..vf8C..AzOyx2a+H.......+1O..3V+zM687C..r1OE3WS+..ff8C..CzO..3Z+H.......31O..nV+..v+7C..r1O..fS+..fe8C..BzOFqKa+H.......01O..XV+...97C..r1OxzjS+Plle8C..9yOpejZ+H.......E2O..DW+nB997C..u1O0GLU+LEbe8C..+yO..Pb+H.....V+G2OY8GW+..P97CQCq1O..HT+vofe8iWtDzOqOZa+H....Pjo61O..jV+...87C..p1OPGoS+PCqd8C..8yOiJja+H.......61O..TV+...77C..p1OOIlS+..fe8C..7yOpena+H.......C1O..HW+..f97yWbk1O..XM+...77C..kyO..DR+L....fFKG1O..PW+..v87C..k1O..XM+..v67C..kyObJ3Q+L....fNpN1O..bW+..v77C..m1O..bM+..v67yQEjyO..7Q+L.....Zru1O..DX+..337SiUo1ONEpM+HIYG8i0mJzOssuQ+L....fcy41O3KNX+Xb027C..l1Orc+O+ngsL8isaHzO..bQ+L....faVx1OlkGX+..P27yU+h1O..3P+zvVP8C..0yOmkeQ+L.......r1O..XX+X2b17C..p1O..jQ+bw0B8iPGuyO5ndQ+L.......o1O..rX+nefz7C..q1OFWsP+..f+7i7jpyO..nQ+L.......p1O7xeX+..vw7C..m1OubHN+b4z87C..1yOOz3P+L.......g1O..fW+..P07S8Ae1O..PQ+nwp77C..qyO..bQ+L.......j1OY8UW+..fz7C..d1OKmPP+..v67C..oyO..bQ+L.....9hd1O..PW+..vz7C..d1OE3aQ+..v57C..pyO..PQ+L....vnBE0O..rW+..fB8C..pyO..3J+..f27C..dyO..bR+P.......C0O..rW+.aWB8C..nyO..3J+b0e27C..dyO..XR+P.......D0O..rW+..PB8C..myO..3J+TeP27C..cyO..TR+P....fq9B0O..nW+DUPB8C..lyO..3J+..P27C..cyO..XR+P....vo.B0O..3W+..PB8C..jyO..vJ+...27yCMbyOKmjR+P....PX65zO..vW+..v.8C..hyOZXuJ+...27C..byO..XR+P....vU+7zO..rW+..P.8C..hyO..rJ+...27C..ayO..XR+P.......8zO..nW+..f+7yKGfyO..rJ+...27C..cyO..XR+P.......4zO..rW+..P.8C..eyO..rJ+jJv17C..cyO..LR+P.....p.1zO..nW+LtJ.8C..dyO..rJ+..v17C..byOhLAR+P.......WzO...Y+..vH8C..p1O..DO+fqNl8SniP0O..7Q+........VzOKm7X+...I8i9Po1OmBDO+jBFl8C..P0OWN6Q+........UzO..7X+jJ.I8C..o1O..DO+DU.l8C..P0O..3Q+......QlUzO..7X+..PI8C..o1O..DO+...l8C..P0O..3Q+........SzO..7X+b0eI8C..o1OeP2N+ne.l8iHSP0Oyx6Q+........SzO..7X+..PI8C..o1O..zN+rcCl8C..P0O..3Q+........SzO..7X+...I8C..o1ODYxN+...l8C..P0O..3Q+........RzOb0+X+3puH8iF1m1O..3N+..vk8C..P0O3pmR+........SzO..7X+..vH8C..m1O..3N+..fk8C..O0OKthR+........eyO..7I+..Pl7C..3xO..nI+..vw7C..xyOwUKO+D.......eyO..7I+..Pl7C..3xO..nI+..vw7C..xyO..HO+D.......eyO..7I+..Pl7C..3xO..nI+..vw7C..xyO..HO+D.......dyO..7I+...l7SV+2xO..nI+..vw7C..wyO..HO+D.......dyO..7I+...l7SE72xOw5mI+..vw7C..wyO..DO+D.......zyO...Y+..vv7C..n1O..LS+..fx7ynBZyO..vU+b.......yyO..7X+..vv7C..n1O..LS+j0ex7C..ZyO..nU+b.......yyO..7X+..vv7C..n1O..HS+3pex7C..YyOBcfU+b.....ZLvyO..7X+..fv7C..n1O..XS+Pznx7C..YyOOzVT+b.......tyO..vX+...v7C..l1Oxz.S+...y7C..WyO..bS+b.......syOVetX+...v7C..k1O..rR+Tvyx7C..WyO..PS+b.......syO..nX+...v7C..j1OmBrR+..vx7C..WyOyoxR+b.......syO..7X+..fw7C..j1OVerS+..vx7C..ayOVe1S+b.....QisyOd4BY+...x7C..i1OlS+S+..vx7C..byO3kUT+b.......uyOnB.Y+..Py7C..i1O..DT+..vx7C..cyO5G3U+b.......zyO..zX+..Pw7Cp.i1O..nS+Lr8x7yU+ZyOmDoU+b.......+1O..bW+..vS8C..j1O..zU+..vW8C..+yO..DR+H.......+1O..bW+..vS8C..j1O..zU+..vW8C..+yOZX+Q+H.......syO..bL+..vs7C..ByO...I+..Px7C..gyO..XR+D.......syO..bL+..vs7i.eAyO...I+..Px7C..gyO..TR+D.......syO..bL+..vs7ysMAyO...I+..Px7yCsfyO..PR+D.......syOUfaL+..fs7C..AyO...I+..Px7C..fyO..HR+D.......ryO..XL+..fs7C..AyO...I+..Px7C..fyO..7Q+D.......MzO..nM+...z7C..syOUfmI+..f17C..xyO...P+D.......LzO..jM+rssy7iB9qyO..jI+..P17C..wyO..7O+D.......HzO..nL+...y7C..cyOoBvI+..f27C..SzO..7P+D.......GzOBcjL+..vx7C..byO..vI+..f27C..QzO..3P+D.......GzO..jL+..vx7C..byO..vI+..P27C..QzO..3P+D.....hFVzOpfIN+D7h37C..FzO..HJ+..v37C..vyO..zR+D.......VzO..HN+..f37C..EzO..HJ+..v37C..vyO..vR+D....vKtUzO..HN+..P37yU+DzO..HJ+..v37C..vyO..vR+D.......qyO..DT+TfOV8C..4xOt5OI+..Pt7C..8yO..zP+X....Pp.qyO..7S+nBrV8C..4xOQEXI+..Pt7C..8yO..vP+X.......qyO..3S+..PV8S4I3xO1tgI+..Pt7C..9yO..vP+X.......qyO..3S+...V8C..3xO..nI+..Pt7yMK9yO..vP+X.......qyOA91S+...V8C..3xO..rI+..Pt7iq99yO..vP+X....vo.pyO..zS+jSgU8C..3xO..vI+..Pt7C..+yO21tP+X.......pyO..vS+..fU8C..3xONK2I+..Pt7C..+yO..rP+X.......pyO..vS+..fU8C..3xO..3I+..Pt7yU+9yO..rP+X.......pyO..vS+..PU8C..3xO..3I+b0Ot7C..9yO..rP+X.......pyO..vS+..PU8Sen2xO..3I+TAOt7C..9yO7xqP+X.......pyO..vS+..PU8C..2xOr9zI+H3Mt7C..8yO0GnP+X.......qyO..rS+fJ.U8C..2xO..zI+PjIt7C..8yO..nP+X.......qyO..rS+...U8C..2xOenyI+3CEt7yo.7yO..nP+X.......qyO..rS+..vT8C..2xO..zI+LmBt7C..7yO..nP+X.......pyOnwnS+..vT8C..2xO..zI+r9.t7C..7yO..nP+X.......pyO..rS+LIhT8SCa1xO..3I+jJ.t7C..7yO9AkP+X.......pyO..rS+...T8C..1xO...J+...t7C..7yO..jP+X.......pyO..rS+...T8C..1xO...J+...t7C..7yOt5iP+X.......myO..rS+..PT8C..0xO..HJ+...t7C..5yO..bP+X....vKGtyOmBrS+7P6W8C..0xOnwLK+...t7C..7yOzXQR+X....f9AqyO...T+..vY8Sb0zxOE32L+...t7C..8yOt5GS+X.....yIpyODMFT+..PX8C..zxOss2L+...t7C..+yOubdR+X.......c1O..3U+vz.T8C..t1O..zQ+..vz7C..jzOiJfT+L.......b1O..3U+...T8C..t1O..3Q+..vz7C..izO..fT+L.......b1Ot52U+..vS8C..s1O..3Q+3puz7C..izO..fT+L.......b1Oyx2U+3IgS8C..s1OF19Q+..fz7C..izO..bT+L.......i1O..DV+...R8C..r1O..jS+..fz7CBcazO..DT+L.......r0O..rW+..fb8iePvyO..fJ+..v07C..7yO2rDV+P....ff2p0OmBzW+..Pb8C..uyO..bJ+Dqu07C..6yO..DV+P....PV+wzO..TY+...c8ybJYyO...K+..vy7C..FzO..vW+X.......xzO..TY+..vb8C..YyO..HK+..vy7C..FzO..jW+X.......xzO..TY+..fb8C..YyO..LK+..vy7C..FzO..bW+X.......YyO..fK+.dgo7C..hyO..PJ+Te.67C..V0O..nT+f.......YyOsseK+..fo7C..iyO21LJ+..P67C..U0O..nT+f.......YyO..bK+..fo7iPGlyOE3GJ+..P67C..T0O3KhT+f.......YyO..bK+..fo7CBcmyOb0CJ+...67C..S0O..bT+f.......YyO..bK+ztYo7C..pyOF1lI+...67C..T0Ou3NT+f.......YyO..bK+..Po7SfumyOQEbI+...67C..Q0O..LT+f....fSAXyO..bK+..Po7C..jyO0GbI+..f57SRxT0OKmVT+f.......YyO..bK+bJ.o7C..fyOi0aI+...57yG5P0ORR.T+f.......YyO..bK+...o7CvWeyOE3aI+DUv47yQEK0OIxHT+f.......YyO..bK+..Po7C..dyOhFsI+..v47yKGE0Ow5YT+f....PiUXyO..bK+..Po7C..cyO..zI+..v47Sr9A0O..fT+f....vnBXyOW8aK+...o7C..byO..rI+..v47Ct5F0O..TT+f.......XyOwUaK+fL8n7ynBayO..rI+..f47C..F0O..TT+f.......XyOiJXK+..vn7C..ayO..nI+..f47ytYB0O..LT+f.......XyO..XK+..vn7C..cyO..jI+..f47C...0O..7S+f.......YyO..XK+..vn7C..eyOyohI+..f47C..8zO..zS+f....vbJXyO..XK+..vn7iFqdyOJ3iI+..f47C..6zO..vS+f.......XyOoBXK+..vn7C..cyO..jI+..f47C..6zOlFBT+f.......XyO..XK+..vn7C..byO..jI+..v47C..C0O..HT+f.......XyO..XK+..vn7C..byO..fI+..v47if28zO..3S+f....PV+YyO..XK+..fn7i4TbyOQieI+bai47C..3zO..jS+f.......SzO..TK+..Py7C..ayO..LJ+Dqe17C..6yOofUW+D.......QzO..TK+v5yw7if2ZyO..HJ+..P17C..4yO0GbV+D.......PzO..TK+..fw7C..ZyOw5EJ+..P17C..3yOfWNV+D.......OzO..TK+...w7C..ZyO..DJ+..P17C..2yOIxvU+D.......NzO..PK+zMKv7C..ZyO..DJ+..P17yQE2yOu3RU+D....vKGMzO..PK+.dgu7C..ZyO..DJ+..P17C..4yO3keU+D.......MzOiJLK+..fu7iNpYyO..DJ+..P17C..4yOD5rU+D.......s0O..zY+...L8C..1xO..XI+..vv7C..UyOkmrU+P.......s0O..zY+..vK8C..1xO..XI+..vv7C..UyO..rU+P....f9Pv0O..zY+..vK8C..1xO..XI+..vv7C..UyO..rU+P.......90OmB3Y+..fL8C..1xO..XI+..vv7C..TyO..zU+P....fJv80O..7Y+vWbL8C..1xO..XI+..vv7C..TyO..3U+P.......20O..7Y+PRJL8C..1xO..XI+..vv7C..UyO..rU+P.......y0OiJ3Y+..vK8C..1xO..TI+..vv7C..UyO..fU+P....fJv20O..3Y+..fK8C..1xO..TI+..vv7iiJUyOmDgU+P....fnQ6zO..HK+...27SvKyxO..PI+..Pv7C7RX0O..HY+T.....Uf6zO..DK+.cj77SlFyxO..PI+..Pv7i7jU0OnBnW+T.......K0OenCK+...+7i4TyxOWNQI+..Pv7i9vL0O..bW+T....fWtI0O...K+HIA97CQiyxO3kQI+..Pv7y1VD0O..PW+T.......D0OW8+J+ztI77yIQyxOQEPI+..Pv7ynB.0O5G.W+T.......B0O..7J+..f57Sp.yxO..PI+..Pv7yC56zO..vV+T....f9vp0O..3J+..f47C..yxO..PI+..Pv7C..3zO..nV+T....fPG30O..3J+DUP47C..yxO..PI+..Pv7CvW4zOlkmV+T....PCa.1Omk2J+..v47C..yxOiqNI+..Pv7C..4zO..jV+T....fPG50O..zJ+..f57C..yxOb0OI+..Pv7ShL2zO..fV+T.......w0O..zJ+bV957C..yxO..PI+..Pv7ypevzO+fhV+T....P8go0ODMvJ+vK+47C..yxO..PI+..Pv7C..wzOIIcV+T....PEbe0O..vJ+j0e47C..yxODMNI+..Pv7C..yzO..bV+T....P8AW0O..vJ+..v37C..yxO..LI+..Pv7C..wzO..TV+T.......S0OmBrJ+rOb37C..yxO..LI+..Pv7C..vzOAuVV+T.......P0O..rJ+..P37C..yxO..LI+..Pv7C..vzOssMV+T.......L0O..rJ+..f37C..yxO..LI+..Pv7C..vzO..TV+T.......K0O..rJ+..P37C..yxO..LI+..Pv7CZLuzOSAGV+T.....xzW0O..nJ+r9A77C..yxO..LI+..Pv7C..ozOmDIV+T....P0OJ0O..nJ+r9Q57C..yxO..LI+..Pv7yKtkzO...V+T.......9zO..nJ+v5S37Cu7xxO..LI+..Pv7C..nzO..vU+T....fogH0O..jJ+...37isaxxO..LI+..Pv7C..nzOdRnU+T....P+fo0O..jJ+3KN37C..yxO..LI+n.Ov7C..lzO..rU+T....vxIN0O..jJ+bJ.27C..yxO..LI+..Pv7C..dzO..bU+T.......VzOVdxJ+..fs7iq9vxO..7H+...v7C..wyO..rS+D....P8CUzO..vJ+b0es7iF1vxO..7H+...v7Sp.vyO..nS+D.......UzO..vJ+..Ps7SVdvxO..7H+...v7C..uyOwUKT+D.......TzO..vJ+...s7iSAvxO..7H+...v7CmBtyO...T+D.......TzO..vJ+...s7C..vxO..7H+...v7C..uyOMK6S+D.......J1O..TY+b0OO8imDHyOrcSI+..Pw7C..ryO..3U+P.....p.J1O..fY+...P8C..HyO..TI+..Pw7C..qyO..3U+P....."
+            CalibrationParameters="128.Jf8m.A.vA8C..GzO..Pc+nyUTBD..+xO..7K+XV9l8yh7iIP9PIL+3Ckv7CUfX1Obifg.A.Pz7C..QyOY4Ub+jIOnBD..bxO..vI+vWrW8CNZAIP..bM+..v07C..51OU3NFAA.P77C..wyOShvU+zEqRDD..lzO..XR+7Pak8C"
+            ConnectionType="0" SerialNumber="003CE7A0" PostureName1="Pinky"
+            PostureName2="Open Hand" PostureName3="Thumb" PostureName4="One Finger Point"
+            PostureName5="Two finger" PostureName6="Three fingers" PostureName7="Four fingers"
+            PostureName8="Gang sign" PostureName9="OK"/>
+  </DEVICEMANGER>
+  <ARRANGEMENTMANAGER CurrentArrangement="0">
+    <ARRANGEMENT Name="New Arrangement" NumScenes="5" CurrentScene="2" SoloCount="0"
+                 AssociatedProjectFileList="" AutoLoadAssociatedFiles="0" MidiAssignment="">
+      <SCENE Title="Scene 1" IsGlobal="0" IgnoreGlobalScenes="0" IsStartUpScene="0"
+             Description="">
+        <MAPPINGINPUTLIST>
+          <MAPPINGINPUT InputMin="0.2859831154346466" InputMax="0.8850491642951965" OutputMin="0.0"
+                        OutputMax="127.0" WarpFactor="0.0" OutputValue="127" AltOutputValue="0"
+                        OutputVelocitySensitive="1" AltOutputVelocitySensitive="1" ToggleMode="0"
+                        MovementThreshold="0.5" MovementThresholdEnabled="0" ThresholdOnsetValue="127"
+                        ThresholdReleaseValue="0" ShouldSendValueOnThresholdOnset="1"
+                        ShouldSendValueOnThresholdRelease="0" InputValueMode="0" ShouldSendResetMessages="0"
+                        ResetMessageValue="0" ResetMessageRampTimeInMilliseconds="0"
+                        UniqueId="1652532008879" Name="Pitch R" ShouldAutoGenerateName="1"
+                        Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.397681713104248" InputMax="0.8623619675636292" OutputMin="0.0"
+                        OutputMax="127.0" WarpFactor="0.0" OutputValue="127" AltOutputValue="0"
+                        OutputVelocitySensitive="1" AltOutputVelocitySensitive="1" ToggleMode="0"
+                        MovementThreshold="0.5" MovementThresholdEnabled="0" ThresholdOnsetValue="127"
+                        ThresholdReleaseValue="0" ShouldSendValueOnThresholdOnset="1"
+                        ShouldSendValueOnThresholdRelease="0" InputValueMode="0" ShouldSendResetMessages="0"
+                        ResetMessageValue="0" ResetMessageRampTimeInMilliseconds="0"
+                        UniqueId="1652532062966" Name="Roll R" ShouldAutoGenerateName="1"
+                        Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Roll"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+        </MAPPINGINPUTLIST>
+        <MAPPINGOUTPUTLIST>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1652532008861" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="60" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1652532073591" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="61" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+        </MAPPINGOUTPUTLIST>
+        <CONNECTEDNODELIST>
+          <CONNECTEDNODE MappingInputUniqueId="1652532008879" MappingOutputUniqueId="1652532008861"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1652532062966" MappingOutputUniqueId="1652532073591"
+                         MappingInputPortNumber="0"/>
+        </CONNECTEDNODELIST>
+        <INSTRUMENTLIST>
+          <INSTRUMENT Type="CHORDMACHINE" Mute="0" Solo="0" Name="" LabelColour="ffffffff"
+                      MidiOutputPort="Glover" MidiChannel="1" CurrentChord="8" Mode="1"
+                      EndChordsUponSceneSwitch="1">
+            <INSTRUMENTPARAMETERS/>
+            <CHORDLIST>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="76"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="E Minor 7" ChordShortName="E Minor 7">
+                <NOTELIST>
+                  <NOTE MidiNumber="71"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="86"/>
+                  <NOTE MidiNumber="79"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture6"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="D Sus2 / A Sus4" ChordShortName="D Sus2">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture7"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="G Sus2 / D Sus4" ChordShortName="G Sus2">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture9"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="A Sus2 / E Sus4" ChordShortName="A Sus2">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="83"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="81"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture3"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="71"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="83"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture8"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture2"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+            </CHORDLIST>
+          </INSTRUMENT>
+          <INSTRUMENT Type="CHORDMACHINE" Mute="0" Solo="0" Name="" LabelColour="ffffffff"
+                      MidiOutputPort="Glover" MidiChannel="2" CurrentChord="4" Mode="1"
+                      EndChordsUponSceneSwitch="1">
+            <INSTRUMENTPARAMETERS/>
+            <CHORDLIST>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="73"/>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="78"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="73"/>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="84"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="78"/>
+                  <NOTE MidiNumber="84"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture6"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="73"/>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="66"/>
+                  <NOTE MidiNumber="80"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture3"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="81"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture7"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="G# + A#" ChordShortName="G# + A#">
+                <NOTELIST>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="80"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="D# Minor" ChordShortName="D# Minor">
+                <NOTELIST>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="63"/>
+                  <NOTE MidiNumber="70"/>
+                  <NOTE MidiNumber="78"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture9"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="75"/>
+                  <NOTE MidiNumber="71"/>
+                  <NOTE MidiNumber="73"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture8"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+            </CHORDLIST>
+          </INSTRUMENT>
+          <INSTRUMENT Type="CHORDMACHINE" Mute="0" Solo="0" Name="" LabelColour="ffffffff"
+                      MidiOutputPort="Glover" MidiChannel="3" CurrentChord="2" Mode="1"
+                      EndChordsUponSceneSwitch="1">
+            <INSTRUMENTPARAMETERS/>
+            <CHORDLIST>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="76"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="E Minor 7" ChordShortName="E Minor 7">
+                <NOTELIST>
+                  <NOTE MidiNumber="71"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="D Minor add 9" ChordShortName="D min add 9">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="86"/>
+                  <NOTE MidiNumber="76"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture6"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="D Minor add 9" ChordShortName="D min add 9">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="76"/>
+                  <NOTE MidiNumber="86"/>
+                  <NOTE MidiNumber="77"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture7"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="G Sus2 / D Sus4" ChordShortName="G Sus2">
+                <NOTELIST>
+                  <NOTE MidiNumber="69"/>
+                  <NOTE MidiNumber="79"/>
+                  <NOTE MidiNumber="86"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture3"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="---" ChordShortName="---">
+                <NOTELIST>
+                  <NOTE MidiNumber="77"/>
+                  <NOTE MidiNumber="83"/>
+                  <NOTE MidiNumber="72"/>
+                  <NOTE MidiNumber="76"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture8"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+            </CHORDLIST>
+          </INSTRUMENT>
+        </INSTRUMENTLIST>
+      </SCENE>
+      <SCENE Title="Scene 2" IsGlobal="0" IgnoreGlobalScenes="0" IsStartUpScene="0"
+             Description="">
+        <MAPPINGINPUTLIST>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1661440428680"
+                        Name="Two fingers L + Pitch L" ShouldAutoGenerateName="1" Type="1"
+                        LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                               InputType="2" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1661440428870"
+                        Name="Pitch R + Two finger R" ShouldAutoGenerateName="1" Type="1"
+                        LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1661440429033"
+                        Name="Pitch L + One Finger Point L" ShouldAutoGenerateName="1"
+                        Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664374427268"
+                        Name="Thumbs Up L + Yaw L" ShouldAutoGenerateName="1" Type="1"
+                        LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture6"
+                               InputType="2" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Yaw"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664453981436"
+                        Name="One Finger Point L" ShouldAutoGenerateName="1" Type="0"
+                        LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664454072793"
+                        Name="Fist L + Drum Hit L" ShouldAutoGenerateName="1" Type="0"
+                        LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.2494062483310699" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                               InputType="2" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="DrumHit"
+                               InputType="1" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664454151064"
+                        Name="Two fingers L" ShouldAutoGenerateName="1" Type="0" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture5"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664454156089"
+                        Name="Thumbs Up L" ShouldAutoGenerateName="1" Type="0" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture6"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664454268619"
+                        Name="Fist L + Pitch L" ShouldAutoGenerateName="1" Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                               InputType="2" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+        </MAPPINGINPUTLIST>
+        <MAPPINGOUTPUTLIST>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1661440428669" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="82" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1661440428860" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="56" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1661440429023" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="84" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664374427263" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="88" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664453981418" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="50" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664454072783" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="54" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664454151055" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="51" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664454156081" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="52" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664454268603" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="55" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+        </MAPPINGOUTPUTLIST>
+        <CONNECTEDNODELIST>
+          <CONNECTEDNODE MappingInputUniqueId="1661440428680" MappingOutputUniqueId="1661440428669"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1661440428870" MappingOutputUniqueId="1661440428860"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1661440429033" MappingOutputUniqueId="1661440429023"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664374427268" MappingOutputUniqueId="1664374427263"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664453981436" MappingOutputUniqueId="1664453981418"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664454072793" MappingOutputUniqueId="1664454072783"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664454151064" MappingOutputUniqueId="1664454151055"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664454156089" MappingOutputUniqueId="1664454156081"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664454268619" MappingOutputUniqueId="1664454268603"
+                         MappingInputPortNumber="0"/>
+        </CONNECTEDNODELIST>
+        <INSTRUMENTLIST>
+          <INSTRUMENT Type="CHORDMACHINE" Mute="0" Solo="0" Name="" LabelColour="ffffffff"
+                      MidiOutputPort="Glover" MidiChannel="1" CurrentChord="0" Mode="1"
+                      EndChordsUponSceneSwitch="1">
+            <INSTRUMENTPARAMETERS/>
+            <CHORDLIST>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="D#" ChordShortName="D#">
+                <NOTELIST>
+                  <NOTE MidiNumber="63"/>
+                </NOTELIST>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+                  <INPUTIDENTIFIER DeviceUniqueId="10793" DeviceType="NgimuGloveDevice" InputId="Posture9"
+                                   InputType="2" Inverted="0"/>
+                </INPUTCOMBINATION>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+              <CHORD Velocity="100" NoteSpread="0" ChordName="" ChordShortName="">
+                <NOTELIST/>
+                <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name=""/>
+              </CHORD>
+            </CHORDLIST>
+          </INSTRUMENT>
+        </INSTRUMENTLIST>
+      </SCENE>
+      <SCENE Title="SCENE 3" IsGlobal="0" IgnoreGlobalScenes="0" IsStartUpScene="0"
+             Description="">
+        <MAPPINGINPUTLIST>
+          <MAPPINGINPUT InputMin="0.08069100975990295" InputMax="0.8514533638954163"
+                        OutputMin="0.0" OutputMax="127.0" WarpFactor="0.0" OutputValue="127"
+                        AltOutputValue="0" OutputVelocitySensitive="1" AltOutputVelocitySensitive="1"
+                        ToggleMode="0" MovementThreshold="0.5" MovementThresholdEnabled="0"
+                        ThresholdOnsetValue="127" ThresholdReleaseValue="0" ShouldSendValueOnThresholdOnset="1"
+                        ShouldSendValueOnThresholdRelease="0" InputValueMode="0" ShouldSendResetMessages="0"
+                        ResetMessageValue="0" ResetMessageRampTimeInMilliseconds="0"
+                        UniqueId="1664139780492" Name="Pitch L + One Finger Point L"
+                        ShouldAutoGenerateName="1" Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Pitch"
+                               InputType="3" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture4"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.22298564016819" InputMax="0.6354848742485046" OutputMin="0.0"
+                        OutputMax="127.0" WarpFactor="0.0" OutputValue="127" AltOutputValue="0"
+                        OutputVelocitySensitive="1" AltOutputVelocitySensitive="1" ToggleMode="0"
+                        MovementThreshold="0.5" MovementThresholdEnabled="0" ThresholdOnsetValue="127"
+                        ThresholdReleaseValue="0" ShouldSendValueOnThresholdOnset="1"
+                        ShouldSendValueOnThresholdRelease="0" InputValueMode="0" ShouldSendResetMessages="0"
+                        ResetMessageValue="0" ResetMessageRampTimeInMilliseconds="0"
+                        UniqueId="1664139780792" Name="Gang sign L + Roll L" ShouldAutoGenerateName="1"
+                        Type="1" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture8"
+                               InputType="2" Inverted="0"/>
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Roll"
+                               InputType="3" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+          <MAPPINGINPUT InputMin="0.0" InputMax="1.0" OutputMin="0.0" OutputMax="127.0"
+                        WarpFactor="0.0" OutputValue="127" AltOutputValue="0" OutputVelocitySensitive="1"
+                        AltOutputVelocitySensitive="1" ToggleMode="0" MovementThreshold="0.5"
+                        MovementThresholdEnabled="0" ThresholdOnsetValue="127" ThresholdReleaseValue="0"
+                        ShouldSendValueOnThresholdOnset="1" ShouldSendValueOnThresholdRelease="0"
+                        InputValueMode="0" ShouldSendResetMessages="0" ResetMessageValue="0"
+                        ResetMessageRampTimeInMilliseconds="0" UniqueId="1664140097470"
+                        Name="Fist L" ShouldAutoGenerateName="1" Type="0" LabelColour="ffffffff">
+            <INPUTCOMBINATION Valid="1" InputEventThreshold="0.4000000059604645" Name="">
+              <INPUTIDENTIFIER DeviceUniqueId="26313" DeviceType="NgimuGloveDevice" InputId="Posture1"
+                               InputType="2" Inverted="0"/>
+            </INPUTCOMBINATION>
+          </MAPPINGINPUT>
+        </MAPPINGINPUTLIST>
+        <MAPPINGOUTPUTLIST>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664139780491" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="92" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664139780790" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="93" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+          <MAPPINGOUTPUT Mute="0" Solo="0" Name="" UniqueId="1664140097467" Initialiser="0"
+                         ExitMessage="0" OutputValue="1" LabelColour="ffffffff" ViewIsExpanded="0">
+            <MIDIOUTPUT Channel="1" MIDINumber="91" Mute="0" Solo="0" MidiOutputPort="Glover"
+                        MessageType="3" NoteLength="1000"/>
+          </MAPPINGOUTPUT>
+        </MAPPINGOUTPUTLIST>
+        <CONNECTEDNODELIST>
+          <CONNECTEDNODE MappingInputUniqueId="1664139780492" MappingOutputUniqueId="1664139780491"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664139780792" MappingOutputUniqueId="1664139780790"
+                         MappingInputPortNumber="0"/>
+          <CONNECTEDNODE MappingInputUniqueId="1664140097470" MappingOutputUniqueId="1664140097467"
+                         MappingInputPortNumber="0"/>
+        </CONNECTEDNODELIST>
+        <INSTRUMENTLIST/>
+      </SCENE>
+    </ARRANGEMENT>
+  </ARRANGEMENTMANAGER>
+</GLOVER>
